@@ -12,7 +12,7 @@
 2. Navigate to where you want your project to be and then use: `rb <project-name>`
 3. Wait for the process to finish. It will open itself in VS code using `code .`
 4. Launch the app any which way you please and it will launch on the roku and take you to a screen with `Hello, World!`
-5. Now you have a working base for your roku app with the file structure we use at REDspace
+5. Now you have a working base for your roku app with a solid file structure
 
 
 [Submit any bugs here](https://github.com/BrianWillett/roku-boilerplate/issues "Bugs")
