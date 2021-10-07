@@ -20,7 +20,5 @@
   },
   "homepage": "https://github.com/BrianWillett/roku-boilerplate#readme",
   "dependencies": {
-    "-": "^0.0.1",
-    "@actions/exec": "^1.1.0"
   }
 }
