@@ -1,0 +1,26 @@
+{
+  "name": "roku-boilerplate",
+  "version": "1.0.0",
+  "description": "Node module to create the standard Roku/Brightscript boilerplate to get an app up and running. After running the create command, you will have created a working Roku app that can launch and display \"Hello, World!\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rb": "./initiateStructure.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianWillett/roku-boilerplate.git"
+  },
+  "author": "Brian Willett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianWillett/roku-boilerplate/issues"
+  },
+  "homepage": "https://github.com/BrianWillett/roku-boilerplate#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@actions/exec": "^1.1.0"
+  }
+}
