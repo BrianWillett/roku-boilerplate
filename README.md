@@ -1,7 +1,5 @@
 ## Roku Boilerplate
-#### Written at REDspace by Brian Willett
-##### Early Testing Phase
-#
+
 
 #### This is built to run in VS Code with the [BrightScript Language][1] extension
 [1]: https://marketplace.visualstudio.com/items?itemName=RokuCommunity.brightscript/ "BrightScript Extension"
@@ -16,3 +14,5 @@
 
 
 [Submit any bugs here](https://github.com/BrianWillett/roku-boilerplate/issues "Bugs")
+
+###### Written at REDspace by Brian Willett
